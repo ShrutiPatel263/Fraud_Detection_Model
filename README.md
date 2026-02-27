@@ -145,7 +145,3 @@ GitHub: [https://github.com/ShrutiPatel263](https://github.com/ShrutiPatel263)
 
 ---
 
----
-
-
-Tell me your goal (placements / internships / research / portfolio showcase).
