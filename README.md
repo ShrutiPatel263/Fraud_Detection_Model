@@ -1,7 +1,4 @@
-Here is your **professional, ATS-friendly, recruiter-impressive `README.md`** tailored exactly to your final results (ROC-AUC 0.977 with XGBoost).
-You can copy-paste this directly into your GitHub repository.
 
----
 
 # 💳 Credit Card Fraud Detection — ML Classification Pipeline
 
